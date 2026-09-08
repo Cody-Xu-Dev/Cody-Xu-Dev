@@ -39,7 +39,7 @@
 **Lux3D · 分布式推理与产品化**  
 负责分布式推理服务的架构设计与核心开发，覆盖模型常驻、任务并行、分阶段流水线、版本治理与监控；参与网站前后端初期建设及 OpenAPI 接入，让模型能力进入实际业务流程。
 
-[访问 Lux3D / Live Website ↗](https://lux3d.aholo3d.cn/lux3d/home)
+[访问 Lux3D / Live Website ↗](https://lux3d.aholo3d.cn/lux3d/home) · [Lux3D Skill ↗](https://labs.aholo3d.cn/api-docs/skills/lux3d)
 
 **材质翻译 · 从数据构造到后训练**  
 围绕不同渲染器材质到 PBR 表达的转换，推进数据生产、固定测试集、SFT 与 RL 后训练，结合渲染反馈和可视化评测持续改进模型效果。
