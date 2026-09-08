@@ -60,11 +60,13 @@
 | 编程语言 | Python · Java · C / C++ · Verilog |
 | AI 框架 | PyTorch · MindSpore |
 | 模型架构 | Transformer · DiT · VAE |
-| 模型训练 | SFT · RL |
-| 后端与推理 | Java · Spring Boot · FastAPI · OpenAPI · 分布式推理 |
+| 训练与对齐 | SFT · RL |
 | 三维表征 | Mesh · 3DGS · Voxel · NeRF · SDF |
-| 三维处理 | 网格处理 · PBR 材质 · 多视角渲染 |
-| 边缘部署 | 华为昇腾 · 瑞芯微 · 树莓派 · ROS |
+| 几何处理 | 网格修复 · 重拓扑 · 简化 · UV 处理 · 水密处理 · 补洞 |
+| 材质与渲染 | PBR 材质 · 多视角渲染 |
+| 推理系统与优化 | 分布式推理 · 分阶段调度 · 模型常驻 · 编译产物与上下文复用 · 任务并行 |
+| 后端开发 | Spring Boot · FastAPI · OpenAPI |
+| 边缘计算与机器人 | 华为昇腾 · 瑞芯微 · 树莓派 · ROS |
 
 <a id="milestones"></a>
 ### 04 / 经历与荣誉
