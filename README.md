@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#about">关于我</a> &nbsp; / &nbsp;
+  <a href="#about">技术定位</a> &nbsp; / &nbsp;
   <a href="#work">项目实践</a> &nbsp; / &nbsp;
   <a href="#toolbox">技术栈</a> &nbsp; / &nbsp;
   <a href="#milestones">经历与荣誉</a>
@@ -18,19 +18,20 @@
 ---
 
 <a id="about"></a>
-### 01 / 关于我
+### 01 / 技术方向与定位 · Technical Focus
 
-目前在 **群核科技** 从事 AI 3D 方向研发，围绕三维生成、材质理解与转换，连接算法研发、工程系统和产品应用。
+目前在 **群核科技** 从事 AI 3D 方向研发。
 
-我的工作贯穿 AI 落地的完整链路：建设训练数据、参与模型训练与后训练、搭建评测体系、设计分布式推理服务，并将模型能力交付到网站、OpenAPI 和行业流程。
+- **三维生成与材质理解**（3D Generation & Material Understanding）
+- **三维几何处理与行业适配**（3D Geometry Processing & Industry Adaptation）：网格处理、3D 打印适配与游戏资产管线
+- **三维数据工程与质量治理**（3D Data Engineering & Quality）
+- **模型训练与效果对齐**（Model Training & Alignment）：DiT、SFT、RL
+- **分布式推理与系统优化**（Distributed Inference & Systems Optimization）
+- **模型评测与行业应用**（Model Evaluation & Industry Applications）
 
-<table>
-<tr>
-<td width="33%" valign="top"><strong>◈ 数据与模型</strong><br/><br/>三维数据治理与语义打标<br/>多模态数据构造<br/>DiT 训练实验 · SFT · GRPO</td>
-<td width="34%" valign="top"><strong>⌘ 系统与推理</strong><br/><br/>分布式推理架构<br/>模型生命周期与版本治理<br/>分阶段调度 · 可观测性</td>
-<td width="33%" valign="top"><strong>↗ 评测与产品</strong><br/><br/>自动评测与主观盲评<br/>3D 行业后处理<br/>全栈应用 · OpenAPI</td>
-</tr>
-</table>
+长期围绕**三维数据、生成模型、几何算法与工程系统的协同**，推进从数据构建、模型优化到几何处理、推理服务和产品应用的完整链路，关注生成质量、运行效率与真实业务中的稳定交付。
+
+*Connecting 3D data, generative models, geometry algorithms, and production systems — from experimentation to reliable deployment.*
 
 <a id="work"></a>
 ### 02 / 项目实践
@@ -39,7 +40,7 @@
 负责分布式推理服务的架构设计与核心开发，覆盖模型常驻、任务并行、分阶段流水线、版本治理与监控；参与网站前后端初期建设及 OpenAPI 接入，让模型能力进入实际业务流程。
 
 **材质翻译 · 从数据构造到后训练**  
-围绕不同渲染器材质到 PBR 表达的转换，推进数据生产、固定测试集、SFT 与 GRPO 后训练，结合渲染反馈和可视化评测持续改进模型效果。
+围绕不同渲染器材质到 PBR 表达的转换，推进数据生产、固定测试集、SFT 与 RL 后训练，结合渲染反馈和可视化评测持续改进模型效果。
 
 **AI 3D 数据工程 · 可持续的训练数据供给**  
 建设三维素材分类打标、质量清洗、去重、类别均衡与版本化交付流程；参与 GaussMesh 数据生产及 DiT 训练实验，打通数据准备、训练和验证。
@@ -55,7 +56,7 @@
 | 方向 | 技术与实践 |
 | :--- | :--- |
 | 编程与服务 | Python · C / C++ · FastAPI |
-| 模型与训练 | PyTorch · MindSpore · Transformer · DiT · SFT · GRPO |
+| 模型与训练 | PyTorch · MindSpore · Transformer · DiT · SFT · RL |
 | 数据与评测 | 多模态数据 · 语义打标 · 质量治理 · 自动评测 · 主观盲评 |
 | 推理与部署 | 分布式推理 · 模型常驻 · 分阶段调度 · 弹性扩缩容 · 全链路监控 |
 | 边缘与三维 | 华为昇腾 · 瑞芯微 · 树莓派 · ROS · 3D 几何处理 · PBR |
