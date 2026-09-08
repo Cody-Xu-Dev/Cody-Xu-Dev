@@ -53,15 +53,15 @@
 <sub>以上为工作经历摘要；相关项目不代表个人开源仓库。</sub>
 
 <a id="toolbox"></a>
-### 03 / 技术栈
+### 03 / 技术栈 · Tech Stack
 
-| 方向 | 技术与实践 |
+| 类别 | 技术 |
 | :--- | :--- |
-| 编程与服务 | Python · C / C++ · FastAPI |
-| 模型与训练 | PyTorch · MindSpore · Transformer · DiT · SFT · RL |
-| 数据与评测 | 多模态数据 · 语义打标 · 质量治理 · 自动评测 · 主观盲评 |
-| 推理与部署 | 分布式推理 · 模型常驻 · 分阶段调度 · 弹性扩缩容 · 全链路监控 |
-| 边缘与三维 | 华为昇腾 · 瑞芯微 · 树莓派 · ROS · 3D 几何处理 · PBR |
+| 编程语言 | Python · Java · C / C++ · Verilog |
+| AI 框架与训练 | PyTorch · MindSpore · DiT · SFT · RL |
+| 后端与推理 | FastAPI · OpenAPI · 分布式推理 |
+| 三维处理 | 网格处理 · PBR 材质 · 多视角渲染 |
+| 边缘部署 | 华为昇腾 · 瑞芯微 · 树莓派 · ROS |
 
 <a id="milestones"></a>
 ### 04 / 经历与荣誉
