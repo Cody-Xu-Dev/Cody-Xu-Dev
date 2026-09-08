@@ -59,8 +59,10 @@
 | :--- | :--- |
 | 编程语言 | Python · Java · C / C++ · Verilog |
 | AI 框架 | PyTorch · MindSpore |
+| 模型架构 | Transformer · DiT · VAE |
 | 模型训练 | SFT · RL |
 | 后端与推理 | Java · Spring Boot · FastAPI · OpenAPI · 分布式推理 |
+| 三维表征 | Mesh · 3DGS · Voxel · NeRF · SDF |
 | 三维处理 | 网格处理 · PBR 材质 · 多视角渲染 |
 | 边缘部署 | 华为昇腾 · 瑞芯微 · 树莓派 · ROS |
 
