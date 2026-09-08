@@ -43,8 +43,6 @@
 
 负责两套分布式推理服务的整体架构、核心开发与交付，支撑 AI PBR、GaussMesh 及 Lux3D 多版本模型应用。建设任务并行、分阶段流水线、编译产物与上下文复用、分级调度和弹性扩缩容，完善标准推理接口、版本治理、全链路监控与异常定位。
 
-[访问 Lux3D / Live Website ↗](https://lux3d.aholo3d.cn/lux3d/home) · [Lux3D Skill ↗](https://labs.aholo3d.cn/api-docs/skills/lux3d)
-
 **材质翻译模型训练与业务落地**  
 *训练优化与效果对齐*
 
@@ -64,6 +62,8 @@
 *全栈开发与平台能力建设*
 
 完成 Lux3D 网站前后端初期建设、OpenAPI、模型能力原型及基础功能管线，提供模型试用、效果展示与应用验证入口。建设第一版 Qunhe 3D Arena，以及评测、调试、可视化和自动化测试工具，通过自动评测与主观盲评支撑模型对比、版本选择和效果迭代。
+
+[访问 Lux3D / Live Website ↗](https://lux3d.aholo3d.cn/lux3d/home) · [Lux3D Skill ↗](https://labs.aholo3d.cn/api-docs/skills/lux3d)
 
 #### 实习项目 / Internship Projects
 
