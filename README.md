@@ -23,9 +23,9 @@
 目前在 **群核科技** 从事 AI 3D 方向研发。
 
 - **三维生成与材质理解**（3D Generation & Material Understanding）
-- **三维几何处理与行业适配**（3D Geometry Processing & Industry Adaptation）：网格处理、3D 打印适配与游戏资产管线
+- **三维几何处理与行业适配**（3D Geometry Processing & Industry Adaptation）
 - **三维数据工程与质量治理**（3D Data Engineering & Quality）
-- **模型训练与效果对齐**（Model Training & Alignment）：DiT、SFT、RL
+- **模型训练与效果对齐**（Model Training & Alignment）
 - **分布式推理与系统优化**（Distributed Inference & Systems Optimization）
 - **模型评测与行业应用**（Model Evaluation & Industry Applications）
 
